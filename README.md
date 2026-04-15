@@ -56,28 +56,6 @@ https://www.kaggle.com/datasets/jaimetrickz/galaxy-zoo-2-images
 
 ---
 
-## 🏗️ Project Structure
-
-
-galaxy-morphology-explorer/
-├── data/
-│ ├── raw/
-│ ├── processed/
-│ └── catalogs/
-├── src/
-│ ├── data/
-│ ├── models/
-│ ├── training/
-│ ├── analysis/
-│ └── utils/
-├── notebooks/
-├── experiments/
-├── tests/
-└── paper/
-
-
----
-
 ## ⚙️ Tech Stack
 
 - Python 3.11+
